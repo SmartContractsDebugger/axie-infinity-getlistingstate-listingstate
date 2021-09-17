@@ -6,3 +6,5 @@ Well, it will not be cheap as it took a lot of research and debug from me but yo
 ## Proofs?
 
 I can provide you an endpoint with low latency and no rate limit so you can be sure that you’re not querying a GraphQL proxy. After payment I’ll send to you the ABI, the method and the contract address to get it on chain.
+
+[Medium](https://medium.com/@smart.contracts.debugger/how-to-get-the-listing-state-in-axie-infinity-contracts-a-k-a-listingstate-getlistingstate-174b892d6d3d)
